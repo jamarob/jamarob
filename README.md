@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+<a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamarob&show_icons=true&theme=radical" />
+</a>
 
-![Jan's github stats](https://github-readme-stats.vercel.app/api?username=jamarob&show_icons=true&theme=radical)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamarob&theme=radical)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamarob&theme=radical&layout=compact" />
+</a>
 
 <!--
 **jamarob/jamarob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
